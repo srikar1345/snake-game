@@ -8,6 +8,12 @@ A classic Snake game built with Python's turtle graphics module.
 - Score is displayed at the top
 - Game over message with final score
 
+## Libraries Used
+
+- **turtle**: Used for all game graphics, drawing the snake, food, and scoreboard, and handling keyboard input.
+- **time**: Used to control the speed of the game loop (with `time.sleep`).
+- **random**: Used to randomly place the food on the screen after it is eaten.
+
 ## How to Run
 1. Make sure you have Python installed (version 3.x).
 2. Install the `turtle` module if needed (usually included with Python).
